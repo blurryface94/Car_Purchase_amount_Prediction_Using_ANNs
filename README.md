@@ -16,7 +16,7 @@ An Artificial Neural Network which can predict the amount a customer will spend 
   * Keras: Python package for building Anns
   
  ## Data 
- The dataset consists of:
+ The dataset consists of the following features:
  1. Customer Name
  2. Customer e-mail
  3. Country 
