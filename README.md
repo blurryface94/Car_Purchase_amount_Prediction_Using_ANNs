@@ -13,7 +13,7 @@ An Artificial Neural Network which can predict the amount a customer will spend 
   * Pandas: Python package for data analysis
   * Matplotlib and Seaborn: Python 2D plotting library
   * Sklearn: Python package for modeling creation
-  * keras: Python package for building Anns
+  * Keras: Python package for building Anns
   
  ## Data 
  The dataset consists of:
